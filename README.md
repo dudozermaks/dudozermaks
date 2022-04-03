@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dudozermaks
-- 👀 I’m interested in computer since
+- 👀 I’m interested in computer science
 - 🌱 I’m currently learning C++, Arch and i3
 - 💞️ I’m looking to collaborate on smth
 - 📫 How to reach me tg:https://t.me/dudozer_maks; gmail:maks.razrushitel08@gmail.com

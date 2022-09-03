@@ -1,3 +1,4 @@
+![](https://www.codewars.com/users/dudozer_mask/badges/large)
 - 👋 Hi, I’m @dudozermaks
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning C++, Arch and i3

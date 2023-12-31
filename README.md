@@ -7,6 +7,6 @@ Currently I am working on Sudoku projects, like different solvers and app for so
 Also, I am an olympiad programmer. I love to solve code problems!
 
 My setup is:
-Linux + NixOS + i3. You can find my NixOS config in my page!
+Arch Linux (again) + bspwm. [config + install script](https://github.com/dudozermaks/config)
 
 📫 How to reach me [Telegram](https://t.me/dudozer_maks); [Mail](mailto:maks.razrushitel08@gmail.com)

@@ -1,5 +1,7 @@
 ![](https://www.codewars.com/users/dudozer_mask/badges/large)
 
+My website: https://dudozermaks.github.io
+
 Hi, I’m @dudozermaks
 
 Currently I am working on Sudoku projects, like different solvers and app for solving Sudoku.

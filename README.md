@@ -1,4 +1,4 @@
-![](https://www.codewars.com/users/dudozer_mask/badges/large)
+![](https://www.codewars.com/users/dudozer_maks/badges/large)
 
 My website: https://dudozermaks.github.io
 
